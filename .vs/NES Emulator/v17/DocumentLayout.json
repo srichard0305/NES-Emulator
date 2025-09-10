@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Dev\\NES Emulator\\NES Emulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11DC9DCD-DB10-415D-B8F4-0F6F16D1ACBE}|NES Emulator.vcxproj|C:\\Dev\\NES Emulator\\NES Emulator\\cpu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11DC9DCD-DB10-415D-B8F4-0F6F16D1ACBE}|NES Emulator.vcxproj|solutionrelative:cpu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{11DC9DCD-DB10-415D-B8F4-0F6F16D1ACBE}|NES Emulator.vcxproj|C:\\Dev\\NES Emulator\\NES Emulator\\cpu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11DC9DCD-DB10-415D-B8F4-0F6F16D1ACBE}|NES Emulator.vcxproj|solutionrelative:cpu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11DC9DCD-DB10-415D-B8F4-0F6F16D1ACBE}|NES Emulator.vcxproj|C:\\Dev\\NES Emulator\\NES Emulator\\Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11DC9DCD-DB10-415D-B8F4-0F6F16D1ACBE}|NES Emulator.vcxproj|solutionrelative:Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11DC9DCD-DB10-415D-B8F4-0F6F16D1ACBE}|NES Emulator.vcxproj|C:\\Dev\\NES Emulator\\NES Emulator\\cpu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11DC9DCD-DB10-415D-B8F4-0F6F16D1ACBE}|NES Emulator.vcxproj|solutionrelative:cpu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{11DC9DCD-DB10-415D-B8F4-0F6F16D1ACBE}|NES Emulator.vcxproj|C:\\Dev\\NES Emulator\\NES Emulator\\cpu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11DC9DCD-DB10-415D-B8F4-0F6F16D1ACBE}|NES Emulator.vcxproj|solutionrelative:cpu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "cpu.h",
               "DocumentMoniker": "C:\\Dev\\NES Emulator\\NES Emulator\\cpu.h",
               "RelativeDocumentMoniker": "cpu.h",
               "ToolTip": "C:\\Dev\\NES Emulator\\NES Emulator\\cpu.h",
               "RelativeToolTip": "cpu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-09T22:49:05.418Z",
               "IsPinned": true,
@@ -40,15 +40,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "cpu.cpp",
               "DocumentMoniker": "C:\\Dev\\NES Emulator\\NES Emulator\\cpu.cpp",
               "RelativeDocumentMoniker": "cpu.cpp",
               "ToolTip": "C:\\Dev\\NES Emulator\\NES Emulator\\cpu.cpp",
               "RelativeToolTip": "cpu.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-09T22:48:35.244Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -59,9 +60,10 @@
               "RelativeDocumentMoniker": "Driver.cpp",
               "ToolTip": "C:\\Dev\\NES Emulator\\NES Emulator\\Driver.cpp",
               "RelativeToolTip": "Driver.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-09T23:00:35.98Z",
+              "IsPinned": true,
               "EditorCaption": ""
             }
           ]

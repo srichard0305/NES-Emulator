@@ -1,4 +1,4 @@
-﻿  cpu.cpp
-  Driver.cpp
+﻿  Driver.cpp
+  cpu.cpp
   Generating Code...
   NES Emulator.vcxproj -> C:\Dev\NES Emulator\NES Emulator\x64\Debug\NES Emulator.exe
